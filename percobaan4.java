@@ -4,6 +4,7 @@ public class percobaan4 {
         System.out.println("Daftar Nama Pengunjung:");
         for (int i = 0; i < namaPengunjung.length; i++) {
             System.out.println("- " + namaPengunjung[i]);
+            System.out.println("Jumlah pengunjung: " + namaPengunjung.length);
         }
     }
 
